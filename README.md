@@ -4,7 +4,7 @@
 
 I build end-to-end analytics projects — from raw data to a deployed, business-framed tool — rather than one-off notebooks. Currently looking for Data Analyst / Business Analyst / BI Analyst roles.
 
-[---](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### 🔧 What I work with
 
@@ -17,7 +17,7 @@ I build end-to-end analytics projects — from raw data to a deployed, business-
 - Business Analytics Trainee, Grant Thornton Bharat LLP (summer internship)
 - Certifications: Google Data Analytics Professional Certificate · Google Analytics (GA4) · Google Ads Search Professional
 
-[---](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### 📌 Featured Projects
 
@@ -30,7 +30,7 @@ Power BI dashboard turning raw sales data into an interactive, stakeholder-ready
 **[Airbnb Pricing & Revenue Analysis](https://github.com/Ujjwal-Hayaran/Airbnb-Pricing-and-Revenue-Analysis-using-Python)**
 Python-based analysis of pricing patterns and revenue drivers across listings.
 
-[---](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 *→ Full portfolio in my pinned repos below.*
 
