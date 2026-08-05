@@ -12,7 +12,7 @@ I build end-to-end analytics projects — from raw data to a deployed, business-
 
 ### 🎓 Background
 
-- MBA (Business Analytics), Jagran Lakecity University, Bhopal — expected May 2026
+- MBA (Business Analytics), Jagran Lakecity University, Bhopal — 2026
 - BBA (Marketing), Bundelkhand University
 - Business Analytics Trainee, Grant Thornton Bharat LLP (summer internship)
 - Certifications: Google Data Analytics Professional Certificate · Google Analytics (GA4) · Google Ads Search Professional
