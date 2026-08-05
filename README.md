@@ -8,7 +8,7 @@ I build end-to-end analytics projects — from raw data to a deployed, business-
 
 ### 🔧 What I work with
 
-`Python` · `SQL` · `Power BI` · `scikit-learn` · `Streamlit` · `Tableau`
+`Python` · `SQL` · `Power BI` · `scikit-learn` · `Streamlit` · `Tableau` · `Excel with AI`
 
 ### 🎓 Background
 
