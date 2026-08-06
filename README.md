@@ -21,7 +21,7 @@ I build end-to-end analytics projects — from raw data to a deployed, business-
 
 ### 📌 Featured Projects
 
-**[Credit Risk Scoring Engine](https://github.com/Ujjwal-Hayaran/credit-risk-scoring-engine)**
+**[Credit Risk Prediction System](https://github.com/Ujjwal-Hayaran/Credit-Risk-Prediction-System)**
 Random Forest model predicting loan default risk — 97% accuracy, 0.997 AUC — deployed as a live Streamlit scoring tool for loan officers, with a full explainability breakdown of what drives each prediction.
 
 **[E-Commerce Data Analysis & Visualization](https://github.com/Ujjwal-Hayaran/E-Commerce-Data-Analysis-and-Visualization)**
