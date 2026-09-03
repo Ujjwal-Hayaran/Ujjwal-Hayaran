@@ -1,6 +1,6 @@
 # Hi, I'm Ujjwal 👋
 
-**Business Analytics MBA candidate | Turning messy data into decisions businesses can act on**
+**Business Analytics MBA Graduate | Turning messy data into decisions businesses can act on**
 
 I build end-to-end analytics projects — from raw data to a deployed, business-framed tool — rather than one-off notebooks. Currently looking for Data Analyst / Business Analyst / BI Analyst roles.
 
