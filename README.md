@@ -36,7 +36,7 @@ Python-based analysis of pricing patterns and revenue drivers across listings.
 
 ### 📫 Let's connect
 
-[LinkedIn](https://www.linkedin.com/in/ujjwal-hayaran/) · [Email](ujjwalhayaran10@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ujjwal-hayaran/) · [Email](ujjwalhayaran10@gmail.com) · [Portfolio](https://ujjwal-hayaran.github.io/)
 
 ---
 *Currently building AI-augmented analytics skills — using LLMs for insight generation and explainability alongside traditional BI tooling.*
